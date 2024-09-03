@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## Computer Engineering student here!
+Just starting to learn Github. Don't mind me
 <!--
 **Aron-Angeles/Aron-Angeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
